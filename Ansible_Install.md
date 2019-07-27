@@ -8,9 +8,9 @@ Procedimentos:
 
 * **Like Debian - Ubuntu**
   ```bash
-  apt update ; apt install software-properties-common python-pip
+  apt update ; apt install software-properties-common python-pip -y
   apt-add-repository --yes --update ppa:ansible/ansible
-  apt-get install ansible
+  apt-get install ansible -y
   ```
 
 * Like RedHat
@@ -18,3 +18,4 @@ Procedimentos:
   yum install epel-release -y
   yum install ansible python python-pip
   ```
+
