@@ -4,7 +4,7 @@ Máquina: docker
 Procedimentos:
 --------------
 
-* **Documentação Docker:** https://docs.gitlab.com/
+* **Documentação GitLab:** https://docs.gitlab.com/
 
 * **Docker Installation**
 ```bash
