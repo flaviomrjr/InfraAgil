@@ -24,7 +24,7 @@ Aula06  | Introdução Docker
 Aula07  | Docker - Docker Compose e DockerFile / Git-GitLab
 Aula08  | Rundeck
 Aula09  | Jenkins
-Aula10  | BlueGreen Deployment / Introdução a AWS
+Aula10  | BlueGreen Deployment
 
 BRANCHS
 -------
