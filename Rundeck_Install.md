@@ -13,7 +13,7 @@ Procedimentos:
   dpkg -i rundeck_3.1.0.20190731-1_all.deb
   ```
 
-* Like RedHat
+* **Like RedHat**
   ```bash
   yum install java-1.8.0
 	rpm -Uvh https://repo.rundeck.org/latest.rpm
