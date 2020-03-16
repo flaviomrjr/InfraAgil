@@ -7,8 +7,6 @@ Esse repositório tem como objetivo armazenar alguns procedimentos comuns.
 
 O Curso abrange ferramentas diversas e cada aula tente a conectar as ferramentas entre si.
 
-Por isso, esses procedimentos devem ser utilizados em **caso de ausência em aula**, para que seja possivel acampanhar as aulas subsequentes sem maiores problemas.
-
 EMENTA
 ------
 O Curso está dividido em **10 Aulas**. A Agenda _sugerida_ para esses 10 dias irá contemplar os seguintes assuntos:
