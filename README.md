@@ -40,6 +40,10 @@ VAGRANT
 -------
 Ferramenta para criar e gerenciar ambientes virtualizados (baseado em inumeros providers) com foco em automação.
 
+Instalação: https://www.vagrantup.com/downloads.html
+Boxes: https://app.vagrantup.com/boxes/search
+VritualBox: https://www.virtualbox.org/wiki/Downloads
+
 Comandos     | Descrição
 ------------ |------------------
 vagrant init| Gera o VagrantFile
