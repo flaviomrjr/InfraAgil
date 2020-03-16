@@ -1,4 +1,4 @@
-Máquina: automation
+Máquina: DevOps
 -------------------
 
 Procedimentos:
