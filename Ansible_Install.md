@@ -16,6 +16,6 @@ Procedimentos:
 * **Like RedHat**
   ```bash
   yum install epel-release -y
-  yum install ansible python python-pip
+  yum install ansible python python-pip -y
   ```
 
